@@ -1,3 +1,5 @@
+Configuration settings and Tips and Tricks for Visual sudio code (and others)
+
 # vs-code config and cheet-sheet
 
 Keyboard shortcuts:
