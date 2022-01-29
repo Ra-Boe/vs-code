@@ -15,4 +15,4 @@ Configuration settings and Tips and Tricks for Visual sudio code (and others)
 
 ### Config path
 - Desktop C:\Users\ramon\AppData\Roaming\Code\User
-- Notbook C:\Users\Ramona\AppData\Roaming\Code\User
+- Notbook C:\Users\User\AppData\Roaming\Code\User
